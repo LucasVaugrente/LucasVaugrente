@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.lucasvaugrente.fr/" target="_blank"><img src="site_debut.png" width="100%" style="border-radius:20px;"></a>
+	<a href="https://www.lucasvaugrente.fr/" target="_blank" style="border-radius:20px;"><img src="site_debut.png" width="100%"></a>
 </p>
 
 <h2 align="center">Bienvenue sur mon dépôt GitHub !</h2>
