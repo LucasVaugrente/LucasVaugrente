@@ -6,7 +6,7 @@
 
 💬 Sur ce dépôt, vous trouverez tous mes projets que j'ai réalisé jusqu'à maintenant
 
-📫 Vous pouvez me contacter via cette adresse mail : <a href="mailto:lucasvaugrente35@gmail.com">lucasvaugrente35@gmail.com</a>. SI vous voulez plsu d'informations, vous pouvez consulter mon site <a href="lucasvauiugrente.fr">lucasvaugrente.fr</a>.
+📫 Vous pouvez me contacter via cette adresse mail : <a href="mailto:lucasvaugrente35@gmail.com">lucasvaugrente35@gmail.com</a>. SI vous voulez plsu d'informations, vous pouvez consulter mon site <a href="https://lucasvaugrente.fr" target="_blank">lucasvaugrente.fr</a>.
 	
 <h2 align="center">Mes projets</h2>
 
