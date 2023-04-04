@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.lucasvaugrente.fr/"><img src="site_debut.png" width="100%"></a>
+	<a href="https://www.lucasvaugrente.fr/" target="_blank"><img src="site_debut.png" width="100%" style="border-radius:20px;"></a>
 </p>
 
 <!--
