@@ -10,7 +10,7 @@
 	
 <h2 align="center">Mes projets</h2>
 
-<video class="video-si" src="https://lucasvaugrente.fr/videos/space_invaders.mp4" autoplay="" preload="auto" loop="" muted=""></video>
+<img src="https://lucasvaugrente.fr/img/projets/fond_space_inv.png"></video>
 
 <!--
 **LucasVaugrente/LucasVaugrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
