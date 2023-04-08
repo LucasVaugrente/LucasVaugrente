@@ -18,6 +18,14 @@
 	<a href="https://github.com/LucasVaugrente/Space_Invaders"><img src="fond_space_inv.png" width="70%" height="30%"></img></a>
 </p>
 
+<h2><a href="https://github.com/LucasVaugrente/Space_Invaders">2020 -Labyrinthe 🧮</a></h2>
+
+<p>Ce projet est un générateur de labyrinthe qui affiche une auto-résolution. Celui-ci a été fait à deux au lycée. L'algorithme utilisé est celui de Kruskal. Nous avions envisagé aussi de faire un personnage avec des caractéristiques que l'utilisateur devait controler pour parcourir le labyrinthe sans la résolution.</p>
+
+<p align="center">
+	<a href="https://github.com/LucasVaugrente/Labyrinthe"><img src="fond_space_inv.png" width="70%" height="30%"></img></a>
+</p>
+
 
 
 <!--
