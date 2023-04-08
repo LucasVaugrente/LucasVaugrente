@@ -14,7 +14,7 @@
 
 <p>Ce projet est une reproduction du jeu vidéo "Space Invaders", qui consiste à éliminer des obstacles qui s'approchent de nous en se déplacant de gauche à droite. On peut enregistrer notre score avec un pseudo personnalisé préalablement choisi avant de commencer une partie.</p>
 
-<a href="https://github.com/LucasVaugrente/Space_Invaders" ><img src="fond_space_inv.png" width="70%" height="30%" style="align:center;"></img></a>
+<a href="https://github.com/LucasVaugrente/Space_Invaders" style="align:center;"><img src="fond_space_inv.png" width="70%" height="30%"></img></a>
 
 <!--
 **LucasVaugrente/LucasVaugrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
