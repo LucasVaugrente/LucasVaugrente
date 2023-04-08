@@ -10,10 +10,11 @@
 	
 <h1 align="center">Mes projets</h1>
 
-<h2><a href="https://github.com/LucasVaugrente/Space_Invaders">Space Invaders 👽</a></h2>
+<h2><a href="https://github.com/LucasVaugrente/Space_Invaders">2020 - Space Invaders 👽</a></h2>
+
+<p>Ce projet est une reproduction du jeu vidéo "Space Invaders", qui consiste à éliminer des obstacles qui s'approchent de nous en se déplacant de gauche à droite. On peut enregistrer notre score avec un pseudo personnalisé préalablement choisi avant de commencer une partie.</p>
 
 <a href="https://github.com/LucasVaugrente/Space_Invaders" ><img src="https://lucasvaugrente.fr/img/projets/fond_space_inv.png"></img></a>
-<p>oui</p>
 
 <!--
 **LucasVaugrente/LucasVaugrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
