@@ -10,7 +10,11 @@
 	
 <h2 align="center">Mes projets</h2>
 
-<img src="https://lucasvaugrente.fr/img/projets/fond_space_inv.png"></video>
+<h3><a href="https://github.com/LucasVaugrente/Space_Invaders">Space Invaders</a></h3>
+
+<hr>
+
+<a href="https://github.com/LucasVaugrente/Space_Invaders" ><img src="https://lucasvaugrente.fr/img/projets/fond_space_inv.png"></img></a>
 
 <!--
 **LucasVaugrente/LucasVaugrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
