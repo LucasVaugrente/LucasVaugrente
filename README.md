@@ -8,9 +8,9 @@
 
 <table align="center" style="border-radius:10px">
 	<tr>
-		<td><a href="https://www.linkedin.com/in/lucas-vaugrente-847211214/" target="_blank">Linkedin</a></td>
-		<td><a href="mailto:lucasvaugrente35@gmail.com" target="_blank">Gmail</a></td>
-		<td><a href="https://lucasvaugrente.fr" target="_blank">lucasvaugrente.fr</a></td>
+		<td><a href="https://www.linkedin.com/in/lucas-vaugrente-847211214/" target="_blank" style="text-transform: uppercase;">Linkedin</a></td>
+		<td><a href="mailto:lucasvaugrente35@gmail.com" target="_blank" style="text-transform: uppercase;">Gmail</a></td>
+		<td><a href="https://lucasvaugrente.fr" target="_blank" style="text-transform: uppercase;">lucasvaugrente.fr</a></td>
 	</tr>
 </table>
 
