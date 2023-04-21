@@ -4,7 +4,17 @@
 
 📫 Vous pouvez me contacter via cette adresse mail : <a href="mailto:lucasvaugrente35@gmail.com">lucasvaugrente35@gmail.com</a>. Si vous voulez plsu d'informations, vous pouvez consulter mon site <a href="https://lucasvaugrente.fr" target="_blank">lucasvaugrente.fr</a>.
 	
-<h1 align="center">Mes projets</h1>
+<h1>📮 Mes contacts</h1>
+
+<table>
+	<tr>
+		<td>Linkedin</td>
+		<td>Gmail</td>
+		<td>lucasvaugrente.fr</td>
+	</tr>
+</table>
+
+<h1>📜 Mes projets</h1>
 
 <h2><a href="https://github.com/LucasVaugrente/Space_Invaders">2020 - Space Invaders 👽</a></h2>
 
@@ -46,6 +56,7 @@
 	<a href="https://github.com/8Paprika5/BUT-IUT-Lannion-2021_2024/tree/main/BUT2-2022_2023/Alizon"><img src="alizon.png" width="70%" height="30%"></img></a>
 </p>
 
+<h1>📋 Mes compétences</h1>
 
 <!--
 **LucasVaugrente/LucasVaugrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
