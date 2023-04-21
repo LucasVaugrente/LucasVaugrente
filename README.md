@@ -1,8 +1,6 @@
 <h1 style="font-size:10em" align="center">Bienvenue sur mon dépôt GitHub !</h1>
 
-💬 Sur ce dépôt, vous trouverez tous mes projets que j'ai réalisé jusqu'à maintenant.
-
-📫 Vous pouvez me contacter via cette adresse mail : <a href="mailto:lucasvaugrente35@gmail.com">lucasvaugrente35@gmail.com</a>. Si vous voulez plsu d'informations, vous pouvez consulter mon site <a href="https://lucasvaugrente.fr" target="_blank">lucasvaugrente.fr</a>.
+## 💬 Sur ce dépôt, vous trouverez tous mes projets que j'ai réalisé jusqu'à maintenant.
 	
 <h1>📮 Mes contacts</h1>
 
