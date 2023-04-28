@@ -1,4 +1,4 @@
-<a href="https://www.lucasvaugrente.fr/"><video src="https://lucasvaugrente.fr/videos/site.mp4" width="100%"></a>
+<img src="banniere.png" width="100%">
 
 <h1 align="center">Bienvenue sur mon dépôt GitHub !</h1>
 
