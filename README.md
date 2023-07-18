@@ -58,6 +58,40 @@
 
 <h1>📋 Mes compétences</h1>
 
+<table align="center" style="border-radius:10px">
+	<thead>
+		<th>Software</th>
+		<th>Front</th>
+		<th>Back</th>
+	</thead>
+	<tr>
+		<td>C</td>
+		<td>Python</td>
+		<td>Java</td>
+		<td>PHP</td>		
+		<td>Bash</td>
+		<td>Docker</td>
+		<td>JavaFX</td>
+		<td>Android Studio</td>
+	</tr>
+	<tr>
+		<td>HTML</td>
+		<td>CSS</td>
+		<td>SCSS</td>
+		<td>Bootstrap</td>		
+		<td>Vue.JS</td>
+		<td>JQuery</td>
+	</tr>
+	<tr>
+		<td>Python</td>
+		<td>Node.JS</td>		
+		<td>CodeIgniter</td>
+		<td>PHP</td>
+		<td>MySQL</td>
+		<td>PostgreSQL</td>
+	</tr>
+</table>
+
 <!--
 **LucasVaugrente/LucasVaugrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
