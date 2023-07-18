@@ -61,34 +61,83 @@
 <table align="center" style="border-radius:10px">
 	<thead>
 		<th>Software</th>
-		<th>Front</th>
-		<th>Back</th>
+		<th>Frontend</th>
+		<th>Backend</th>
 	</thead>
 	<tr>
 		<td>C</td>
+		<td></td>
 		<td>Python</td>
+	</tr>
+	<tr>
 		<td>Java</td>
-		<td>PHP</td>		
+		<td></td>
+		<td>PHP</td>
+	</tr>
+	<tr>
 		<td>Bash</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>Docker</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>JavaFX</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>Android Studio</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>HTML</td>
 		<td>CSS</td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>SCSS</td>
-		<td>Bootstrap</td>		
-		<td>Vue.JS</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Bootstrap</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Vue.js</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>JQuery</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Python</td>
-		<td>Node.JS</td>		
+		<td></td>
+		<td>Node.js</td>	
+	</tr>
+	<tr>
 		<td>CodeIgniter</td>
+		<td></td>
 		<td>PHP</td>
+	</tr>
+	<tr>
 		<td>MySQL</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>PostgreSQL</td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 
