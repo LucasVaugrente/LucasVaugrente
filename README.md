@@ -58,7 +58,7 @@
 
 <h1>📋 Mes compétences</h1>
 
-<table align="center" style="border-radius:10px" style="width:'90%'">
+<table align="center" style="width:90%">
 	<thead>
 		<th>Software</th>
 		<th>Frontend</th>
