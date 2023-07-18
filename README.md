@@ -58,7 +58,7 @@
 
 <h1>📋 Mes compétences</h1>
 
-<table align="center" style="border-radius:10px">
+<table align="center" style="border-radius:10px" style="width:'90%'">
 	<thead>
 		<th>Software</th>
 		<th>Frontend</th>
@@ -66,28 +66,33 @@
 	</thead>
 	<tr>
 		<td>C</td>
-		<td></td>
+		<td>HTML</td>
 		<td>Python</td>
 	</tr>
 	<tr>
 		<td>Java</td>
-		<td></td>
-		<td>PHP</td>
+		<td>CSS</td>
+		<td>Node.js</td>
+	</tr>
+	<tr>
+		<td>Python</td>
+		<td>SCSS</td>
+		<td>CodeIgniter</td>
 	</tr>
 	<tr>
 		<td>Bash</td>
-		<td></td>
-		<td></td>
+		<td>Bootstrap</td>
+		<td>PHP</td>
 	</tr>
 	<tr>
 		<td>Docker</td>
-		<td></td>
-		<td></td>
+		<td>Vue.js</td>
+		<td>MySQL</td>
 	</tr>
 	<tr>
 		<td>JavaFX</td>
-		<td></td>
-		<td></td>
+		<td>JQuery</td>
+		<td>PostgreSQL</td>
 	</tr>
 	<tr>
 		<td>Android Studio</td>
@@ -95,47 +100,7 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>HTML</td>
-		<td>CSS</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>SCSS</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Bootstrap</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Vue.js</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>JQuery</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Python</td>
-		<td></td>
-		<td>Node.js</td>	
-	</tr>
-	<tr>
-		<td>CodeIgniter</td>
-		<td></td>
-		<td>PHP</td>
-	</tr>
-	<tr>
-		<td>MySQL</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>PostgreSQL</td>
+		<td>Android Studio</td>
 		<td></td>
 		<td></td>
 	</tr>
