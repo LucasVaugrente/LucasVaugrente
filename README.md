@@ -72,7 +72,7 @@
 	<tr>
 		<td>Java</td>
 		<td>CSS</td>
-		<td>Node.js</td>
+		<td>NodeJS</td>
 	</tr>
 	<tr>
 		<td>Python</td>
@@ -105,14 +105,3 @@
 		<td></td>
 	</tr>
 </table>
-
-<!--
-**LucasVaugrente/LucasVaugrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
