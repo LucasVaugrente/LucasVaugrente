@@ -81,22 +81,22 @@
 	</tr>
 	<tr>
 		<td>Bash</td>
-		<td>Bootstrap</td>
+		<td>JavaScript</td>
 		<td>PHP</td>
 	</tr>
 	<tr>
 		<td>Docker</td>
-		<td>Vue.js</td>
+		<td>Bootstrap</td>
 		<td>MySQL</td>
 	</tr>
 	<tr>
 		<td>JavaFX</td>
-		<td>JQuery</td>
+		<td>Vue.JS</td>
 		<td>PostgreSQL</td>
 	</tr>
 	<tr>
-		<td>Android Studio</td>
-		<td></td>
+		<td>PHP</td>
+		<td>JQuery</td>
 		<td></td>
 	</tr>
 	<tr>
