@@ -2,8 +2,9 @@
 
 <h1 align="center">Bienvenue sur mon dépôt GitHub !</h1>
 
-💬 Sur ce dépôt, vous trouverez tous mes projets que j'ai réalisé jusqu'à maintenant.
-	
+<p align="center">
+	💬 Sur ce dépôt, vous trouverez tous mes projets que j'ai réalisé jusqu'à maintenant.
+</p>
 <h1>📮 Mes contacts</h1>
 
 <table align="center" style="border-radius:10px">
