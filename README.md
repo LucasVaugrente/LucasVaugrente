@@ -1,10 +1,9 @@
 <img src="banniere.png" width="100%">
 
-<h1 align="center">Bienvenue sur mon dépôt GitHub !</h1>
+<h1>🙎‍♂️ A propos de moi</h1>
 
-<p align="center">
-	💬 Sur ce dépôt, vous trouverez tous mes projets que j'ai réalisé jusqu'à maintenant.
-</p>
+<p>J'étudie en ce moment à l'IUT de Lannion pour avoir le diplôme du BUT Informatique. Je suis actuellement en alternance pour ma troisième année et je compte faire une école d'ingénieurs ou un master en informatique.</p>
+<p>Pour plus d'informations : <a href="https://lucasvaugrente.fr" target="_blank" style="text-transform: uppercase;">lucasvaugrente.fr</a></p>
 <h1>📮 Mes contacts</h1>
 
 <table align="center" style="border-radius:10px">
