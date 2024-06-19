@@ -6,13 +6,19 @@
 <p>Pour plus d'informations : <a href="https://lucasvaugrente.fr" target="_blank" style="text-transform: uppercase;">lucasvaugrente.fr</a></p>
 <h1>📮 Mes contacts</h1>
 
-<table align="center" style="border-radius:10px">
-	<tr>
-		<td><a href="https://www.linkedin.com/in/lucas-vaugrente-847211214/" target="_blank" style="text-transform: uppercase;">Linkedin</a></td>
-		<td><a href="mailto:lucasvaugrente35@gmail.com" target="_blank" style="text-transform: uppercase;">Gmail</a></td>
-		<td><a href="https://lucasvaugrente.fr" target="_blank" style="text-transform: uppercase;">lucasvaugrente.fr</a></td>
-	</tr>
-</table>
+<p align="center">
+	<a href="https://www.linkedin.com/in/lucas-vaugrente/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:angel.uriot@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://lucasvaugrente.fr/">
+		<img src="https://img.shields.io/badge/-LUCASVAUGRENTE.FR-000000?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+</p>
 
 <h1>📜 Mes projets</h1>
 
