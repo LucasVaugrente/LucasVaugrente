@@ -10,9 +10,6 @@
 	<a href="mailto:lucasvaugrente35@gmail.com">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	<a href="https://www.instagram.com/lucasvaug/">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
 </p>
 
 <h1>🙎‍♂️ Myself</h1>
