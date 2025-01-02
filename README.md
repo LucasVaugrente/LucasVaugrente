@@ -14,7 +14,8 @@
 
 <h1>🙎‍♂️ Myself</h1>
 
-<p>Currently, I'm in my first year of a master's degree in computer science "Smart Computin", a course designed to integrate students into research. I'm doing this course at the moment to discover this world by working with research teams in laboratories to improve my skills too.</p>
+<p>Currently, I'm in my first year of a master's degree in computer science "Smart Computing", a course designed to integrate students into research. I'm doing this course at the moment to discover this world by working with research teams in laboratories to improve my skills too.</p>
+<p>I really like volleyball, watch movies and animes, drawing on pixel art and cleaning 🫠.</p>
 
 <h1>📜 Projects</h1>
 
