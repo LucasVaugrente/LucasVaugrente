@@ -1,10 +1,6 @@
 <img src="banniere.png" width="100%">
 
-<h1>🙎‍♂️ A propos de moi</h1>
-
-<p>J'étudie en ce moment à l'IUT de Lannion pour avoir le diplôme du BUT Informatique. Je suis actuellement en alternance pour ma troisième année et je compte faire une école d'ingénieurs ou un master en informatique.</p>
-<p>Pour plus d'informations : <a href="https://lucasvaugrente.fr" target="_blank" style="text-transform: uppercase;">lucasvaugrente.fr</a></p>
-<h1>📮 Mes contacts</h1>
+<h1>📮 Contacts</h1>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/lucas-vaugrente/">
@@ -14,13 +10,13 @@
 	<a href="mailto:lucasvaugrente35@gmail.com">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	<span>&nbsp;</span>
-	<a href="https://lucasvaugrente.fr/">
-		<img src="https://img.shields.io/badge/-LUCASVAUGRENTE.FR-000000?style=for-the-badge&logo=react&logoColor=white">
-	</a>
 </p>
 
-<h1>📜 Mes projets</h1>
+<h1>🙎‍♂️ Myself</h1>
+
+<p>Currently, I'm in my first year of a master's degree in computer science "Smart Computin", a course designed to integrate students into research. I'm doing this course at the moment to discover this world by working with research teams in laboratories to improve my skills too.</p>
+
+<h1>📜 Projects</h1>
 
 <h2><a href="https://github.com/8Paprika5/BUT-IUT-Lannion-2021_2024/tree/main/BUT2-2022_2023/Alizon">2022 - Site e-commerce Alizon 🧈</a></h2>
 
@@ -62,11 +58,11 @@
 	<a href="https://github.com/LucasVaugrente/Space_Invaders"><img src="fond_space_inv.png" width="70%" height="30%"></img></a>
 </p>
 
-<h1>📋 Mes compétences</h1>
+<h1>📋 Skills</h1>
 
 <table align="center" style="width:90%">
 	<thead>
-		<th>Software</th>
+		<th>Software Development</th>
 		<th>Frontend</th>
 		<th>Backend</th>
 	</thead>
