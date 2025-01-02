@@ -102,7 +102,7 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>Android Studio</td>
+		<td></td>
 		<td>ReactJS</td>
 		<td></td>
 	</tr>
