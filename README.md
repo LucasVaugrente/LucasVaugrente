@@ -107,3 +107,5 @@
 		<td></td>
 	</tr>
 </table>
+
+<p>I use Git to store my projects, i also used Subversion Control, but I'm really familiar with GitHub and Gitlab.</p>
