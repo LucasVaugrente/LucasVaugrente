@@ -1,4 +1,4 @@
-<img src="banniere.png" width="100%">
+<img src="banner_github.gif" width="100%">
 
 <h1>📮 Contacts</h1>
 
