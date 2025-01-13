@@ -6,7 +6,6 @@
 	<a href="https://www.linkedin.com/in/lucas-vaugrente/">
 		<img src="linkedin.png" width="100" height="100">
 	</a>
-	<span>&nbsp;</span>
 	<a href="mailto:lucasvaugrente35@gmail.com">
 		<img src="gmail.png" width="100" height="100">
 	</a>
