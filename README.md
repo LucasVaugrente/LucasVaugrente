@@ -2,14 +2,14 @@
 
 <h1>📮 Contacts</h1>
 
-<p align="center">
+<div>
 	<a href="https://www.linkedin.com/in/lucas-vaugrente/">
 		<img src="linkedin.png" width="100" height="100">
 	</a>
 	<a href="mailto:lucasvaugrente35@gmail.com">
 		<img src="gmail.png" width="100" height="100">
 	</a>
-</p>
+</div>
 
 <h1>🙎‍♂️ Myself</h1>
 
