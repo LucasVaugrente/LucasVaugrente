@@ -2,12 +2,12 @@
 
 <h1>📮 Contacts</h1>
 
-<div>
-	<a href="https://www.linkedin.com/in/lucas-vaugrente/">
-		<img src="linkedin.png" width="100" height="100">
+<div align="center">
+	<a href="mailto:lucasvaugrente35@gmail.com" target="_blank">
+		<img src="gmail.png" width="80" height="80">
 	</a>
-	<a href="mailto:lucasvaugrente35@gmail.com">
-		<img src="gmail.png" width="100" height="100">
+	<a href="https://www.linkedin.com/in/lucas-vaugrente/" target="_blank">
+		<img src="linkedin.png" width="80" height="80">
 	</a>
 </div>
 
