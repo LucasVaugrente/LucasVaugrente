@@ -17,12 +17,12 @@
 	</a>
 </div>
 
-<h1> Myself</h1>
+<h2><img src="myself_logo.png" width="30" height="30"/> Myself</h2>
 
-<p>Currently, I'm in my first year of a master's degree in computer science "Smart Computing", a course designed to integrate students into research. I'm doing this course at the moment to discover this world by working with research teams in laboratories to improve my skills too.</p>
+<p align="justify">Currently, I'm in my first year of a master's degree in computer science "Smart Computing", a course designed to integrate students into research. I'm doing this course at the moment to discover this world by working with research teams in laboratories to improve my skills too.</p>
 <p>I really like volleyball, watch movies and animes, drawing on pixel art and cleaning 🫠.</p>
 
-<h1>📜 Projects</h1>
+<h2><img src="projects_logo.png" width="30" height="30"/> Projects</h2>
 
 <h2><a href="https://github.com/8Paprika5/BUT-IUT-Lannion-2021_2024/tree/main/BUT2-2022_2023/Alizon">Website e-commerce Alizon 🧈</a></h2>
 
