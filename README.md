@@ -3,14 +3,17 @@
 <h1>📮 Contacts</h1>
 
 <div align="center">
-	<a href="mailto:lucasvaugrente35@gmail.com" target="_blank">
+	<a href="mailto:lucasvaugrente35@gmail.com" title="lucasvaugrente35@gmail.com" target="_blank">
 		<img src="gmail.png" width="80" height="80">
 	</a>
-	<a href="https://www.linkedin.com/in/lucas-vaugrente/" target="_blank">
+	<a href="https://www.linkedin.com/in/lucas-vaugrente/" title="in/lucas-vaugrente/" target="_blank">
 		<img src="linkedin.png" width="80" height="80">
 	</a>
-		<a href="https://www.instagram.com/lucasvaug/" target="_blank">
+	<a href="https://www.instagram.com/lucasvaug/" title="@lucasvaug" target="_blank">
 		<img src="instagram.png" width="80" height="80">
+	</a>
+	<a href="https://bsky.app/profile/luvey3.bsky.social" title="@luvey3.bsky.social" target="_blank">
+		<img src="bluesky.png" width="80" height="80">
 	</a>
 </div>
 
