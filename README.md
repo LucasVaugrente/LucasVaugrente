@@ -1,6 +1,9 @@
 <img src="banner_github.gif" width="100%">
 
-<h1>📮 Contacts</h1>
+<div style="display:flex; align-items:center; gap:10px">
+	<img src="contact_logo.png" width="50" height="50">
+	<h2>Contacts / Social medias</h2>
+</div>
 
 <div align="center">
 	<a href="mailto:lucasvaugrente35@gmail.com" title="lucasvaugrente35@gmail.com" target="_blank">
@@ -17,7 +20,7 @@
 	</a>
 </div>
 
-<h1>🙎‍♂️ Myself</h1>
+<h1> Myself</h1>
 
 <p>Currently, I'm in my first year of a master's degree in computer science "Smart Computing", a course designed to integrate students into research. I'm doing this course at the moment to discover this world by working with research teams in laboratories to improve my skills too.</p>
 <p>I really like volleyball, watch movies and animes, drawing on pixel art and cleaning 🫠.</p>
