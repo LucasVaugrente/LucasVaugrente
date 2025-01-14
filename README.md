@@ -1,9 +1,6 @@
 <img src="banner_github.gif" width="100%">
 
-<div style="display:flex; align-items:center; gap:10px">
-	<img src="contact_logo.png" width="50" height="50">
-	<h2>Contacts / Social medias</h2>
-</div>
+<h2><img src="contact_logo.png" width="30" height="30"/> Contacts / Social medias</h2>
 
 <div align="center">
 	<a href="mailto:lucasvaugrente35@gmail.com" title="lucasvaugrente35@gmail.com" target="_blank">
