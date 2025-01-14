@@ -9,6 +9,9 @@
 	<a href="https://www.linkedin.com/in/lucas-vaugrente/" target="_blank">
 		<img src="linkedin.png" width="80" height="80">
 	</a>
+		<a href="https://www.instagram.com/lucasvaug/" target="_blank">
+		<img src="instagram.png" width="80" height="80">
+	</a>
 </div>
 
 <h1>🙎‍♂️ Myself</h1>
