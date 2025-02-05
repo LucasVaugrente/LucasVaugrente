@@ -15,6 +15,9 @@
 	<a href="https://bsky.app/profile/luvey3.bsky.social" title="@luvey3.bsky.social" target="_blank">
 		<img src="logos/bluesky.png" width="80" height="80">
 	</a>
+	<a href="https://lucasvaugrente.github.io/portfolio/" title="https://lucasvaugrente.github.io/portfolio/" target="_blank">
+		<img src="logos/website.png" width="80" height="80">
+	</a>
 </div>
 
 <h2><img src="logos/myself_logo.png" width="30" height="30"/> Myself</h2>
