@@ -27,12 +27,12 @@
 
 <h2><img src="logos/projects_logo.png" width="30" height="30"/> Projects</h2>
 
-<h2><a href="https://github.com/8Paprika5/BUT-IUT-Lannion-2021_2024/tree/main/BUT2-2022_2023/Alizon">Website e-commerce Alizon 🧈</a></h2>
+<h2><a href="https://github.com/LucasVaugrente/Alizon">Website e-commerce Alizon 🧈</a></h2>
 
 <p>This project is a marketplace for the sale of Breton products. It meets the needs of a fictitious customer. This project, in a group of 7, was managed using the AGILE method, with me as Scrum Master.</p>
 
 <p align="center">
-	<a href="https://github.com/8Paprika5/BUT-IUT-Lannion-2021_2024/tree/main/BUT2-2022_2023/Alizon"><img src="projects/alizon.gif" width="70%" height="30%"></img></a>
+	<a href="https://github.com/LucasVaugrente/Alizon"><img src="projects/alizon.gif" width="70%" height="30%"></img></a>
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/Yams">Yams 🎲</a></h2>
