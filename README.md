@@ -27,7 +27,7 @@
 
 <h2><img src="logos/projects_logo.png" width="30" height="30"/> Projects</h2>
 
-<h2><a href="https://github.com/LucasVaugrente/Alizon">Pixelart Gallery</a></h2>
+<h2><a href="https://github.com/LucasVaugrente/pixel_gallery">Pixelart Gallery</a></h2>
 
 <p>This site showcases my pixel art universe, where each creation is the result of my passion for pixel drawing. Between original creations and references to existing works, I share here my works and experiments. This site is available <a href="https://lucasvaugrente.github.io/pixel_gallery/">here.</a></p>
 
@@ -35,13 +35,20 @@
 	<a href="https://github.com/LucasVaugrente/pixel_gallery"><img src="projects/pixel_gallery.png" width="60%" height="40%"></img></a>
 </p>
 
-
 <h2><a href="https://github.com/LucasVaugrente/Alizon">Website e-commerce Alizon 🧈</a></h2>
 
 <p>This project is a marketplace for the sale of Breton products. It meets the needs of a fictitious customer. This project, in a group of 7, was managed using the AGILE method, with me as Scrum Master.</p>
 
 <p align="center">
 	<a href="https://github.com/LucasVaugrente/Alizon"><img src="projects/alizon.png" width="60%" height="40%"></img></a>
+</p>
+
+<h2><a href="https://github.com/LucasVaugrente/portfolio">Portfolio</a></h2>
+
+<p>This project is a website for presenting my portfolio, showcasing my journey, the projects I've completed so far, my skills, and my contact information. It's a project I undertook outside of school to practice more in JavaScript.</p>
+
+<p align="center">
+	<a href="https://github.com/LucasVaugrente/portfolio"><img src="projects/portfolio.png" width="60%" height="40%"></img></a>
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/Yams">Yams 🎲</a></h2>
@@ -60,7 +67,7 @@
 	<a href="https://github.com/LucasVaugrente/Site_KohFrais"><img src="projects/koh_frais.png" width="50%" height="20%"></img></a>
 </p>
 
-<h2><a href="https://github.com/LucasVaugrente/Space_Invaders">Labyrinth 🧮</a></h2>
+<h2><a href="https://github.com/LucasVaugrente/Labyrinthe">Labyrinth 🧮</a></h2>
 
 <p>This project is a labyrinth generator that displays an auto-resolution. This one was done by two people in high school. The algorithm used is Kruskal's. We had also planned to make a character with characteristics that the user would have to control to traverse the labyrinth without the resolution.</p>
 
