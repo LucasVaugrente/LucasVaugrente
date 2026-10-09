@@ -32,7 +32,7 @@
 <p>This site showcases my pixel art universe, where each creation is the result of my passion for pixel drawing. Between original creations and references to existing works, I share here my works and experiments. This site is available <a href="https://lucasvaugrente.github.io/pixel_gallery/">here.</a></p>
 
 <p align="center">
-	<a href="https://github.com/LucasVaugrente/Alizon"><img src="projects/pixel_gallery.png" width="60%" height="40%"></img></a>
+	<a href="https://github.com/LucasVaugrente/pixel_gallery"><img src="projects/pixel_gallery.png" width="60%" height="40%"></img></a>
 </p>
 
 
@@ -125,5 +125,3 @@
 		<td></td>
 	</tr>
 </table>
-
-<p>I use Git to store my projects, i also used Subversion Control, but I'm really familiar with GitHub and Gitlab.</p>
