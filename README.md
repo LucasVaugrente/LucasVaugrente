@@ -27,12 +27,21 @@
 
 <h2><img src="logos/projects_logo.png" width="30" height="30"/> Projects</h2>
 
+<h2><a href="https://github.com/LucasVaugrente/Alizon">Pixelart Gallery</a></h2>
+
+<p>This site showcases my pixel art universe, where each creation is the result of my passion for pixel drawing. Between original creations and references to existing works, I share here my works and experiments. This site is available <a href="https://lucasvaugrente.github.io/pixel_gallery/">here.</a></p>
+
+<p align="center">
+	<a href="https://github.com/LucasVaugrente/Alizon"><img src="projects/pixel_gallery.png" width="60%" height="40%"></img></a>
+</p>
+
+
 <h2><a href="https://github.com/LucasVaugrente/Alizon">Website e-commerce Alizon 🧈</a></h2>
 
 <p>This project is a marketplace for the sale of Breton products. It meets the needs of a fictitious customer. This project, in a group of 7, was managed using the AGILE method, with me as Scrum Master.</p>
 
 <p align="center">
-	<a href="https://github.com/LucasVaugrente/Alizon"><img src="projects/alizon.gif" width="70%" height="30%"></img></a>
+	<a href="https://github.com/LucasVaugrente/Alizon"><img src="projects/alizon.png" width="60%" height="40%"></img></a>
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/Yams">Yams 🎲</a></h2>
@@ -40,7 +49,7 @@
 <p>This project is a simulation of the Yams game, using the same rules as the real thing, between two players. It required several stages to be completed, such as layout, test book, program in natural algorithmic language and documentation.</p>
 
 <p align="center">
-	<a href="https://github.com/LucasVaugrente/Yams"><img src="projects/yams.gif" width="70%" height="30%"></img></a>
+	<a href="https://github.com/LucasVaugrente/Yams"><img src="projects/yams.png" width="60%" height="30%"></img></a>
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/Site_KohFrais">Website Koh Frais 🍨</a></h2>
@@ -48,7 +57,7 @@
 <p>This project is a website created in a group of 4 based on a fictitious interview. With all the information gathered, I made with my team: a synthesis of the expressions of needs, the tree structure of the site, the graphic charter, the layout with the content of the pages and finally the realization of the site.</p>
 
 <p align="center">
-	<a href="https://github.com/LucasVaugrente/Site_KohFrais"><img src="projects/kohfrais.gif" width="70%" height="30%"></img></a>
+	<a href="https://github.com/LucasVaugrente/Site_KohFrais"><img src="projects/koh_frais.png" width="50%" height="20%"></img></a>
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/Space_Invaders">Labyrinth 🧮</a></h2>
@@ -56,7 +65,7 @@
 <p>This project is a labyrinth generator that displays an auto-resolution. This one was done by two people in high school. The algorithm used is Kruskal's. We had also planned to make a character with characteristics that the user would have to control to traverse the labyrinth without the resolution.</p>
 
 <p align="center">
-	<a href="https://github.com/LucasVaugrente/Labyrinthe"><img src="projects/labyrinthe.gif" width="70%" height="30%"></img></a>
+	<a href="https://github.com/LucasVaugrente/Labyrinthe"><img src="projects/labyrinth.png" width="50%" height="40%"></img></a>
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/Space_Invaders">Space Invaders 👽</a></h2>
@@ -64,7 +73,7 @@
 <p>This project is a reproduction of the “Space Invaders” video game, which consists in eliminating obstacles approaching us by moving from left to right. You can save your score with a personalized nickname before starting a game.</p>
 
 <p align="center">
-	<a href="https://github.com/LucasVaugrente/Space_Invaders"><img src="projects/space_invaders.gif" width="70%" height="30%"></img></a>
+	<a href="https://github.com/LucasVaugrente/Space_Invaders"><img src="projects/space_invaders.png" width="50%" height="70%"></img></a>
 </p>
 
 <h1>📋 Skills</h1>
