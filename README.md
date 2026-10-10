@@ -44,7 +44,7 @@
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/portfolio">Portfolio</a></h2>
-
+..
 <p>This project is a website for presenting my portfolio, showcasing my journey, the projects I've completed so far, my skills, and my contact information. It's a project I undertook outside of school to practice more in JavaScript.</p>
 
 <p align="center">
@@ -90,21 +90,25 @@
 		<th>Software Development</th>
 		<th>Frontend</th>
 		<th>Backend</th>
+		<th>Data</th>
 	</thead>
 	<tr>
 		<td>C</td>
 		<td>HTML</td>
 		<td>Python</td>
+		<td>MySQL</td>
 	</tr>
 	<tr>
 		<td>Java</td>
 		<td>CSS</td>
 		<td>NodeJS</td>
+		<td>PostgreSQL</td>
 	</tr>
 	<tr>
 		<td>Python</td>
 		<td>SCSS</td>
 		<td>CodeIgniter</td>
+		<td>MongoDB</td>
 	</tr>
 	<tr>
 		<td>Bash</td>
@@ -127,7 +131,7 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td></td>
+		<td>Flutter</td>
 		<td>ReactJS</td>
 		<td></td>
 	</tr>
