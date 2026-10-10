@@ -44,7 +44,7 @@
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/portfolio">Portfolio</a></h2>
-..
+
 <p>This project is a website for presenting my portfolio, showcasing my journey, the projects I've completed so far, my skills, and my contact information. It's a project I undertook outside of school to practice more in JavaScript.</p>
 
 <p align="center">
