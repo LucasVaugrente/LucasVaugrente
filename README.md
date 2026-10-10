@@ -114,25 +114,30 @@
 		<td>Bash</td>
 		<td>JavaScript</td>
 		<td>PHP</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Docker</td>
 		<td>Bootstrap</td>
-		<td>MySQL</td>
+		<td>SpringBoot</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>JavaFX</td>
 		<td>Vue.JS</td>
-		<td>PostgreSQL</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>PHP</td>
 		<td>JQuery</td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Flutter</td>
 		<td>ReactJS</td>
+		<td></td>
 		<td></td>
 	</tr>
 </table>
