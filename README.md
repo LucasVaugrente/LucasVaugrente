@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/LucasVaugrente/fractals"><img src="projects/fractals" width="60%" height="40%"></img></a>
+	<a href="https://github.com/LucasVaugrente/fractals"><img src="projects/fractals.png" width="60%" height="40%"></img></a>
 </p>
 
 <h2><a href="https://github.com/LucasVaugrente/pixel_gallery">Pixelart Gallery</a></h2>
