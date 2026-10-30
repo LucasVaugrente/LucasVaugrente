@@ -27,6 +27,15 @@
 
 <h2><img src="logos/projects_logo.png" width="30" height="30"/> Projects</h2>
 
+<h2><a href="https://github.com/LucasVaugrente/fractals">Fractals</a></h2>
+
+<p>This mini project consists of being able to build and display fractals, especially the most well-known ones such as the Julia sets and the Mandelbrot set.
+</p>
+
+<p align="center">
+	<a href="https://github.com/LucasVaugrente/fractals"><img src="projects/fractals" width="60%" height="40%"></img></a>
+</p>
+
 <h2><a href="https://github.com/LucasVaugrente/pixel_gallery">Pixelart Gallery</a></h2>
 
 <p>This site showcases my pixel art universe, where each creation is the result of my passion for pixel drawing. Between original creations and references to existing works, I share here my works and experiments. This site is available <a href="https://lucasvaugrente.github.io/pixel_gallery/">here.</a></p>
