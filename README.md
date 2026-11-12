@@ -22,7 +22,7 @@
 
 <h2><img src="logos/myself_logo.png" width="30" height="30"/> Myself</h2>
 
-<p align="justify">Currently, I am currently studying at Polytech Tours, in my fourth year of a computer science degree.</p>
+<p align="justify">Currently, I am currently studying at Polytech Tours, in my fifth year of a computer science degree.</p>
 <p>I really like volleyball, watch movies and animes, drawing on pixel art and cleaning 🫠.</p>
 
 <h2><img src="logos/projects_logo.png" width="30" height="30"/> Projects</h2>
